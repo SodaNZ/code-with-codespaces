@@ -1,0 +1,11 @@
+{
+    // Codespace dev template
+    "name": "Codespace for HY!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
